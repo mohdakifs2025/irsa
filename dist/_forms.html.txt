@@ -1,0 +1,15 @@
+<form
+  name="irsa-test"
+  method="POST"
+  data-netlify="true"
+  hidden
+>
+  <input
+    type="hidden"
+    name="form-name"
+    value="irsa-test"
+  />
+  <input name="name" />
+  <input name="email" />
+  <textarea name="message"></textarea>
+</form>
